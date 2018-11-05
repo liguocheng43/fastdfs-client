@@ -1,0 +1,1 @@
+这个工程要先安装到本地仓库，fastdfsutil才不会报错，因为fastdfsutil依赖于fastdfs-client
